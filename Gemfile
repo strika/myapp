@@ -25,3 +25,4 @@ gem "devise", ">= 2.2.3"
 gem "simple_form", ">= 2.0.4"
 gem "figaro", ">= 0.5.3"
 gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
+gem "debugger", "~> 1.3.0", :group => [:development, :test]
