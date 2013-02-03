@@ -53,3 +53,5 @@ gem "compass-rails", ">= 1.0.3", :group => :assets
 gem "zurb-foundation", ">= 3.2.5", :group => :assets
 gem "devise", ">= 2.2.3"
 gem "simple_form", ">= 2.0.4"
+gem "figaro", ">= 0.5.3"
+gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
